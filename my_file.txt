@@ -1,0 +1,6 @@
+Hello, Python!
+Welcome to Python 101
+Python rocks
+Woohoo, Python!
+I love Python
+Python is awesome!
